@@ -31,6 +31,7 @@ The dataset contains eight attributes of a building (or features, denoted by X1.
 * The effect of amount of data on the performance of prediction model was also examined. 
 * Then, to make the training less sensitive to the scale of features, I performed unity based normalization on the above dataset and train the model again, compare model performance in training and validation with my previous model.
 * The Logistic Regression Model with Feature Scaling performs beter with the Test Accuracy is 0.81 (5% higher than that of the previous model, which is 0.77).
-* Please find the code for more detailed. 
+
+Please find the attached files for more detailed information. 
 
 Thank you!
