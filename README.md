@@ -10,7 +10,7 @@ Tools: Python, Scikit-Learn, Feature Scaling, Linear Regression, Logistic Classi
 **Data Source:**
 
 * Data file is uploaded to Github and is named: Energy.csv
-* The dataset was created by Angeliki Xifara ( Civil/Structural Engineer) and was processed by Athanasios Tsanas, Oxford Centre for Industrial and Applied Mathematics, University of Oxford, UK).
+* The dataset was created by Angeliki Xifara (Civil/Structural Engineer) and was processed by Athanasios Tsanas, Oxford Centre for Industrial and Applied Mathematics, University of Oxford, UK.
 
 **Data Description:**
 The dataset contains eight attributes of a building (or features, denoted by X1...X8) and response being the heating load on the building, y1.
