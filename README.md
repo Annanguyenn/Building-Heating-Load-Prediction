@@ -15,15 +15,15 @@ Tools: Python, Scikit-Learn, Feature Scaling, Linear Regression, Logistic Classi
 **Data Description:**
 The dataset contains eight attributes of a building (or features, denoted by X1...X8) and response being the heating load on the building, y1.
 <br>
-* <br> X1 Relative Compactness
-* <br> X2 Surface Area
-* <br> X3 Wall Area
-* <br> X4 Roof Area
-* <br> X5 Overall Height
-* <br> X6 Orientation
-* <br> X7 Glazing Area
-* <br> X8 Glazing Area Distribution
-* <br> y1 Heating Load
+* X1 Relative Compactness
+* X2 Surface Area
+* X3 Wall Area
+* X4 Roof Area
+* X5 Overall Height
+* X6 Orientation
+* X7 Glazing Area
+* X8 Glazing Area Distribution
+* y1 Heating Load
 
 # Summary: 
 
