@@ -6,10 +6,13 @@ Tools: Python, Scikit-Learn, Feature Scaling, Linear Regression, Logistic Classi
 
 
 # Data:
-## Data Source: Data file is uploaded to Github and is named: Energy.csv
-The dataset was created by Angeliki Xifara ( Civil/Structural Engineer) and was processed by Athanasios Tsanas, Oxford Centre for Industrial and Applied Mathematics, University of Oxford, UK).
 
-## Data Description:
+**Data Source:**
+
+* Data file is uploaded to Github and is named: Energy.csv
+* The dataset was created by Angeliki Xifara ( Civil/Structural Engineer) and was processed by Athanasios Tsanas, Oxford Centre for Industrial and Applied Mathematics, University of Oxford, UK).
+
+**Data Description:**
 The dataset contains eight attributes of a building (or features, denoted by X1...X8) and response being the heating load on the building, y1.
 	X1 Relative Compactness
 	X2 Surface Area
@@ -23,10 +26,12 @@ The dataset contains eight attributes of a building (or features, denoted by X1.
 
 ## Summary: 
 
-Build a linear regression and logistic regression classifiction model to predict heating load type of a building and evaluate model performances using Root Mean Square. 
+* Build a linear regression and logistic regression classifiction model to predict heating load type of a building and evaluate model performances using Root Mean Square. 
 
-The effect of amount of data on the performance of prediction model was also examined. 
+* The effect of amount of data on the performance of prediction model was also examined. 
 
-Then, to make the training less sensitive to the scale of features, I performed unity based normalization on the above dataset and train the model again, compare model performance in training and validation with my previous model.
+* Then, to make the training less sensitive to the scale of features, I performed unity based normalization on the above dataset and train the model again, compare model performance in training and validation with my previous model.
 
-The Logistic Regression Model with Feature Scaling performs beter with the Test Accuracy is 0.81 (5% higher than that of the previous model, which is 0.77).
+* The Logistic Regression Model with Feature Scaling performs beter with the Test Accuracy is 0.81 (5% higher than that of the previous model, which is 0.77).
+
+* Please find the code for more detailed. Thank you!
