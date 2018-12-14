@@ -5,7 +5,7 @@ Predict building heating load with machine learning techniques and classificatio
 Tools: Python, Scikit-Learn, Feature Scaling, Linear Regression, Logistic Classification Model. 
 
 
-# Data:
+## Data
 
 **Data Source:**
 
@@ -25,7 +25,7 @@ The dataset contains eight attributes of a building (or features, denoted by X1.
 * X8 Glazing Area Distribution
 * y1 Heating Load
 
-# Summary: 
+## Summary 
 
 * Build a linear regression and logistic regression classifiction model to predict heating load type of a building and evaluate model performances using Root Mean Square. 
 * The effect of amount of data on the performance of prediction model was also examined. 
